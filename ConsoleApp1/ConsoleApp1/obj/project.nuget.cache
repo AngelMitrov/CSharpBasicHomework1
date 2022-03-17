@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rKVUZEASottCFXBi/tFvz4bi9jCDnEwdDgc84o7PYEc/BYi/9NwG9Zo79dRu8S+DSh8/cqL47o7yArrdurnXYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angel\\OneDrive\\Desktop\\Repositories\\CSharpBasicHomework1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
